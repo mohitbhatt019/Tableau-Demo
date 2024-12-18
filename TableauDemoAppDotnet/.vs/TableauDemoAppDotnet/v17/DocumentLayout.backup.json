@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tableau Demo\\TableauDemoAppDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|d:\\tableau demo\\tableaudemoappdotnet\\tableaudemoappdotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|solutionrelative:tableaudemoappdotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|d:\\tableau demo\\tableaudemoappdotnet\\tableaudemoappdotnet\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|solutionrelative:tableaudemoappdotnet\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|d:\\tableau demo\\tableaudemoappdotnet\\tableaudemoappdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|solutionrelative:tableaudemoappdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|d:\\tableau demo\\tableaudemoappdotnet\\tableaudemoappdotnet\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|solutionrelative:tableaudemoappdotnet\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|d:\\tableau demo\\tableaudemoappdotnet\\tableaudemoappdotnet\\tableaudemoappdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93F34C13-E5AA-4873-BCBA-4EF3D6A9BCB7}|TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj|solutionrelative:tableaudemoappdotnet\\tableaudemoappdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TableauDemoAppDotnet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "TableauDemoAppDotnet\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:28:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "TableauDemoAppDotnet\\Program.cs",
+              "ToolTip": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Program.cs",
+              "RelativeToolTip": "TableauDemoAppDotnet\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:27:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TableauDemoAppDotnet\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TableauDemoAppDotnet\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:26:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TableauDemoAppDotnet\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TableauDemoAppDotnet\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:25:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableauDemoAppDotnet",
+              "DocumentMoniker": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj",
+              "RelativeDocumentMoniker": "TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj",
+              "ToolTip": "D:\\Tableau Demo\\TableauDemoAppDotnet\\TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj",
+              "RelativeToolTip": "TableauDemoAppDotnet\\TableauDemoAppDotnet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:22:31.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

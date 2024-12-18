@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TableauDemoAppDotnet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TableauDemoAppDotnet.styles.css" asp-append-version="true" />
+
+    <!-- Tableau JavaScript API -->
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+
+    <!-- Custom CSS to center the content -->
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            width: 100%;
+        }
+
+        #tableauViz {
+            width: 100%;
+            height: 700px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            <h1>Welcome to Tableau Demo</h1>
+            <!-- The div where Tableau will render -->
+            <div id="tableauViz"></div>
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Tableau Embedding Script -->
+    <script type="text/javascript">
+        var viz;
+
+        // Function to initialize Tableau visualization
+        function initViz() {
+            var containerDiv = document.getElementById("tableauViz"),
+                url = "https://public.tableau.com/views/TableauDemo_17345022496720/Dashboard1?publish=yes",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Tableau visualization has finished loading.");
+                    }
+                };
+
+            // Create Tableau Viz instance
+            viz = new tableau.Viz(containerDiv, url, options);
+        }
+
+        // Initialize visualization when the page loads
+        window.onload = initViz;
+    </script>
+</body>
+</html>
